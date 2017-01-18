@@ -16,11 +16,11 @@ PM> Install-Package Microsoft.CodeAnalysis.CSharp.Scripting
 [Build] menu > Rebuild Solution
 [F5]
 
-Console will be opened.
+Console:
 -------------------------------
-Run a C# script.                   ... written in Program.cs
-Run a C# script w/ FILE.           ... written in 00_test.csx
-Run a C# script w/ nested FILE     ... written in 02_bar.csx, loaded by 01_foo.csx
+Run a C# script.                   ... see Program.cs
+Run a C# script w/ FILE.           ... see 00_test.csx
+Run a C# script w/ nested FILE     ... see  02_bar.csx (loaded by 01_foo.csx)
 Press ANY key to continue...
 -------------------------------
 ```
