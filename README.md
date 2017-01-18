@@ -1,0 +1,2 @@
+# zndkNetRoslyn
+C# scripting test.
