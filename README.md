@@ -16,7 +16,7 @@ PM> Install-Package Microsoft.CodeAnalysis.CSharp.Scripting
 [Build] menu > Rebuild Solution
 [F5]
 
-Console will be raised.
+Console will be opened.
 -------------------------------
 Run a C# script.                   ... written in Program.cs
 Run a C# script w/ FILE.           ... written in 00_test.csx
